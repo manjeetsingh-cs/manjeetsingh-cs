@@ -15,7 +15,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="www.linkedin.com/in/manjeetsingh-cs">
+<a href="https://www.linkedin.com/in/manjeetsingh-cs/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
