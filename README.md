@@ -42,7 +42,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=manjeetsingh-cs&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetsingh-cs&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=manjeetsingh-cs&theme=tokyonight"/>
 </p>
 
 ---
